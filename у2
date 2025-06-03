@@ -1,0 +1,31 @@
+3.1 
+start
+log number 2 + 2
+finish
+
+3.2
+start
+new age number
+set age 18
+log string "Hello, world. My name is Islamchik. Im " >> age >> " y.o"
+
+finish
+
+3.3
+start
+new a number
+set a 2
+new b number
+set b 2
+new c number
+set c a + b
+
+log string a >> " + " >> b >> " = " >> c
+finish
+
+3.4
+start
+new x number
+set x 2 + 2 + 2
+log number x
+finish
